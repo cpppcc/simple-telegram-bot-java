@@ -1,5 +1,5 @@
 # simple telegram bot with java🤩
-<li> enter your Token your bot into Bot462 file to /src/mian/java/Bot462<\li>
+<li> enter your Token your bot into Bot462 file to /src/mian/java/Bot462<li>
 
-<li> run project from main<\li>
+<li> run project from main<li>
 
